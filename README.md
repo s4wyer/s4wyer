@@ -1,6 +1,6 @@
 # Sawyer Andrews
 
-Student, still learning.
+Student, still learning most things.
 
 ## Languages
 
@@ -18,7 +18,7 @@ In order of preference:
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s4wyer&show_icons=true&theme=minimal&hide_border=true&bg_color=ffffff&title_color=333&text_color=666&icon_color=333)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s4wyer&show_icons=true&theme=transparent)
 
 ## Contact
 
